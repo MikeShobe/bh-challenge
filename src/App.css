@@ -4,6 +4,7 @@ html {
   margin-top: 70px;
   height: 800px;
   box-shadow: 0 0 0 50vmax rgb(0 0 0 / 50%);
+  border-radius: 3px;
 }
 
 .App {
